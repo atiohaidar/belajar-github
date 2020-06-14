@@ -1,0 +1,2 @@
+ini tulisan pertama saya di github
+semoga saya bisa menjadi fulstack dev
