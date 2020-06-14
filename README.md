@@ -1,0 +1,2 @@
+# semogapaham
+Untuk rencana saya
